@@ -1,0 +1,48 @@
+C:\Users\lmacr\Downloads\StrinGray_Calendario_Ajustado\StrinGray\bin\Debug\StrinGray.exe.config
+C:\Users\lmacr\Downloads\StrinGray_Calendario_Ajustado\StrinGray\bin\Debug\StrinGray.exe
+C:\Users\lmacr\Downloads\StrinGray_Calendario_Ajustado\StrinGray\bin\Debug\StrinGray.pdb
+C:\Users\lmacr\Downloads\StrinGray_Calendario_Ajustado\StrinGray\obj\Debug\StrinGray.csproj.AssemblyReference.cache
+C:\Users\lmacr\Downloads\StrinGray_Calendario_Ajustado\StrinGray\obj\Debug\MainWindow.baml
+C:\Users\lmacr\Downloads\StrinGray_Calendario_Ajustado\StrinGray\obj\Debug\MainWindow.g.cs
+C:\Users\lmacr\Downloads\StrinGray_Calendario_Ajustado\StrinGray\obj\Debug\App.g.cs
+C:\Users\lmacr\Downloads\StrinGray_Calendario_Ajustado\StrinGray\obj\Debug\StrinGray_MarkupCompile.cache
+C:\Users\lmacr\Downloads\StrinGray_Calendario_Ajustado\StrinGray\obj\Debug\StrinGray.g.resources
+C:\Users\lmacr\Downloads\StrinGray_Calendario_Ajustado\StrinGray\obj\Debug\StrinGray.csproj.CoreCompileInputs.cache
+C:\Users\lmacr\Downloads\StrinGray_Calendario_Ajustado\StrinGray\obj\Debug\StrinGray.exe
+C:\Users\lmacr\Downloads\StrinGray_Calendario_Ajustado\StrinGray\obj\Debug\StrinGray.pdb
+C:\Users\lmacr\OneDrive\Desktop\StrinGray\StrinGray\bin\Debug\StrinGray.exe.config
+C:\Users\lmacr\OneDrive\Desktop\StrinGray\StrinGray\bin\Debug\StrinGray.exe
+C:\Users\lmacr\OneDrive\Desktop\StrinGray\StrinGray\bin\Debug\StrinGray.pdb
+C:\Users\lmacr\OneDrive\Desktop\StrinGray\StrinGray\obj\Debug\StrinGray.csproj.AssemblyReference.cache
+C:\Users\lmacr\OneDrive\Desktop\StrinGray\StrinGray\obj\Debug\MainWindow.baml
+C:\Users\lmacr\OneDrive\Desktop\StrinGray\StrinGray\obj\Debug\MainWindow.g.cs
+C:\Users\lmacr\OneDrive\Desktop\StrinGray\StrinGray\obj\Debug\App.g.cs
+C:\Users\lmacr\OneDrive\Desktop\StrinGray\StrinGray\obj\Debug\StrinGray_MarkupCompile.cache
+C:\Users\lmacr\OneDrive\Desktop\StrinGray\StrinGray\obj\Debug\StrinGray.g.resources
+C:\Users\lmacr\OneDrive\Desktop\StrinGray\StrinGray\obj\Debug\StrinGray.csproj.CoreCompileInputs.cache
+C:\Users\lmacr\OneDrive\Desktop\StrinGray\StrinGray\obj\Debug\StrinGray.exe
+C:\Users\lmacr\OneDrive\Desktop\StrinGray\StrinGray\obj\Debug\StrinGray.pdb
+C:\Users\Carlos Luiz\Downloads\StrinGray\StrinGray\bin\Debug\StrinGray.exe.config
+C:\Users\Carlos Luiz\Downloads\StrinGray\StrinGray\bin\Debug\StrinGray.exe
+C:\Users\Carlos Luiz\Downloads\StrinGray\StrinGray\bin\Debug\StrinGray.pdb
+C:\Users\Carlos Luiz\Downloads\StrinGray\StrinGray\obj\Debug\StrinGray.csproj.AssemblyReference.cache
+C:\Users\Carlos Luiz\Downloads\StrinGray\StrinGray\obj\Debug\MainWindow.baml
+C:\Users\Carlos Luiz\Downloads\StrinGray\StrinGray\obj\Debug\MainWindow.g.cs
+C:\Users\Carlos Luiz\Downloads\StrinGray\StrinGray\obj\Debug\App.g.cs
+C:\Users\Carlos Luiz\Downloads\StrinGray\StrinGray\obj\Debug\StrinGray_MarkupCompile.cache
+C:\Users\Carlos Luiz\Downloads\StrinGray\StrinGray\obj\Debug\StrinGray.g.resources
+C:\Users\Carlos Luiz\Downloads\StrinGray\StrinGray\obj\Debug\StrinGray.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Luiz\Downloads\StrinGray\StrinGray\obj\Debug\StrinGray.exe
+C:\Users\Carlos Luiz\Downloads\StrinGray\StrinGray\obj\Debug\StrinGray.pdb
+C:\Users\Carlos Luiz\Documents\ASAFE\StrinGray\StrinGray\bin\Debug\StrinGray.exe.config
+C:\Users\Carlos Luiz\Documents\ASAFE\StrinGray\StrinGray\bin\Debug\StrinGray.exe
+C:\Users\Carlos Luiz\Documents\ASAFE\StrinGray\StrinGray\bin\Debug\StrinGray.pdb
+C:\Users\Carlos Luiz\Documents\ASAFE\StrinGray\StrinGray\obj\Debug\StrinGray.csproj.AssemblyReference.cache
+C:\Users\Carlos Luiz\Documents\ASAFE\StrinGray\StrinGray\obj\Debug\MainWindow.baml
+C:\Users\Carlos Luiz\Documents\ASAFE\StrinGray\StrinGray\obj\Debug\MainWindow.g.cs
+C:\Users\Carlos Luiz\Documents\ASAFE\StrinGray\StrinGray\obj\Debug\App.g.cs
+C:\Users\Carlos Luiz\Documents\ASAFE\StrinGray\StrinGray\obj\Debug\StrinGray_MarkupCompile.cache
+C:\Users\Carlos Luiz\Documents\ASAFE\StrinGray\StrinGray\obj\Debug\StrinGray.g.resources
+C:\Users\Carlos Luiz\Documents\ASAFE\StrinGray\StrinGray\obj\Debug\StrinGray.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Luiz\Documents\ASAFE\StrinGray\StrinGray\obj\Debug\StrinGray.exe
+C:\Users\Carlos Luiz\Documents\ASAFE\StrinGray\StrinGray\obj\Debug\StrinGray.pdb
